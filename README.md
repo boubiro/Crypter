@@ -3,6 +3,7 @@ Simple hash in MD5, SHA1, DES, RIPEMD160. Encrypt / Decrypt in DES
 ![First page](https://github.com/rjbarna/Crypter/blob/master/pic1.PNG?raw=true)
 ![Second page](https://github.com/rjbarna/Crypter/blob/master/pic2.PNG?raw=true)
 ## More Info (Intended Use):
+Created in 2011. All code is original 2011 code.  
 I created this to act as an extreme password manager ... steps to follow:
 
 1. Think of simple memorable random password (i.e. gmail for gmail)
